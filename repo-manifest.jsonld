@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/zenml-io/gpudoctor/commit/858554cd75af56c489b7afcd47a87eb5d2a5940f",
       "git:hexsha": "858554cd75af56c489b7afcd47a87eb5d2a5940f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T05:01:44.895771+00:00"
     }
   ]
 }
